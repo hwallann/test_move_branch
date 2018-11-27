@@ -1,8 +1,6 @@
 Test document
 Initial line
 
-<<<<<<< HEAD
-=======
 Adding First Line
 Adding Second Line
->>>>>>> 0083333... Adding Second line
+
